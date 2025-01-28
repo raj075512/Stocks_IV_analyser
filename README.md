@@ -11,6 +11,10 @@ This project aims to provide a comprehensive toolset for analyzing **Implied Vol
 - **Customizable Graphs**: Users can customize the range of strike prices and time periods to analyze specific portions of the market.
 - **Color-coded Heatmaps**: Color gradients (e.g., green to red) to display volatility and its trends visually.
 
+![Capture](https://github.com/user-attachments/assets/73ebbc0b-3561-4b9b-894a-8843081e5a78)
+
+![Capture2](https://github.com/user-attachments/assets/a784546c-0b21-4311-877c-a1def6469898)
+
 ## Table of Contents
 
 - [Installation](#installation)
