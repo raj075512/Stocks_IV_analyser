@@ -104,6 +104,13 @@ The dataset should ideally be in a **CSV** or **Pandas DataFrame** format for ea
 | 2025-01-28 | 41200     | 2025-02-02  | 0.13    | 0.16    |
 | 2025-01-28 | 41400     | 2025-02-02  | 0.11    | 0.14    |
 
+
+![Capture3](https://github.com/user-attachments/assets/e86ea6f9-6320-4a7b-bf5b-fe4ce2530bc6)
+
+![Capture4](https://github.com/user-attachments/assets/16470b23-f782-405c-b151-5a3185b83799)
+
+
+
 ## Contributing
 
 We welcome contributions! If you'd like to contribute to the project, feel free to open an issue or submit a pull request. Here are a few ways you can help:
